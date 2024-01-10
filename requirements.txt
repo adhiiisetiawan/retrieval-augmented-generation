@@ -5,3 +5,4 @@ pypdf
 tqdm
 ipykernel
 sentence_transformers
+openai
