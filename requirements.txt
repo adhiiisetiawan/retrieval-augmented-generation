@@ -4,3 +4,4 @@ numpy
 pypdf
 tqdm
 ipykernel
+sentence_transformers
