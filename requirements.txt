@@ -3,3 +3,4 @@ langchain
 numpy
 pypdf
 tqdm
+ipykernel
