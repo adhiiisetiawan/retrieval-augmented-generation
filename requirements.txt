@@ -6,3 +6,5 @@ tqdm
 ipykernel
 sentence_transformers
 openai
+umap-learn
+matplotlib
